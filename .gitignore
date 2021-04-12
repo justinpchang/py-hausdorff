@@ -1,3 +1,5 @@
 build/
 dist/
 hausdorff.egg-inf/
+bin/
+lib/
