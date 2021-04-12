@@ -3,3 +3,4 @@ dist/
 hausdorff.egg-inf/
 bin/
 lib/
+__pycache__/
